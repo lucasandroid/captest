@@ -21,6 +21,19 @@ Na WebView é exibida uma página HTML com Javascript que contém o código de i
 Quando o botão que está na webview for pressionado, ele deve enviar o texto do campo na webview para o campo nativo.
 Da mesma forma, quando o botão nativo for pressionado, o texto no campo nativo deve enviar para a webview.
 
+<b>Obrigatórios:</b><br>
+<li>Java ou Kotlin</li><br>
+<li>O app deve funcionar a partir do android 6 (Marshmallow)</li><br>
+
+<b>Diferenciais</b>
+
+<li>Testes unitários, pode usar a ferramenta que você tem mais experiência.</li>
+
+<li>Arquitetura a ser utilizada: Android Clean Code <br>
+https://github.com/kmmraj/android-clean-code<br>
+https://medium.com/@kmmraj/android-clean-code-part-1-c66da6551d1
+</li>
+
 ## Home
 
 ![Login2.png](https://lucasapp.000webhostapp.com/captest/celular.jpg)
