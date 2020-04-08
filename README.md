@@ -6,7 +6,7 @@ Na primeira tela teremos um formulario de login.
 Após o login ser efetuado no endpoint **https://lucasapp.000webhostapp.com/captest/login.php** o aplicativo encaminha para a segunda tela.
 Ao efetuar o login, deve ser gravado a sessão para que não passe pelo login na próxima vez que o usuário abrir o aplicativo. Somente se o usuário apagar os dados do aplicativo deve pedir novamente email e senha para logar.
 
-Os dados que devem ser enviados para a API logar são:
+Os dados que devem ser enviados por método <b>POST</b> para a API logar são:
 
 <b>email</b> -> cap@test.com
 
