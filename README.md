@@ -14,6 +14,8 @@ Os dados que devem ser enviados para a API logar são:
 
 Na segunda tela temos uma WebView e uma View Nativa.
 
+Exiba o nome do usuário retornado da API na Tela
+
 Na WebView é exibida uma página HTML com Javascript que contém o código de integração para a a View Nativa.
 
 Quando o botão que está na webview for pressionado, ele deve enviar o texto do campo na webview para o campo nativo.
